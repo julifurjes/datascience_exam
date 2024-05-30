@@ -12,4 +12,4 @@ This repository has an Apache License.
 - ```questionnaire.pdf``` contains the exam product.
 - ```requirements.txt``` contains the package names that are required in order to run the scripts.
 
-Data can be downloaded from Kaggle([via this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data)). Save it as ```survey.csv```.
+Data can be downloaded from Kaggle [via this link](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/data). Save it as ```survey.csv```.
