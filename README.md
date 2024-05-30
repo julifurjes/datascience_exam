@@ -4,6 +4,8 @@
 - Julia Flora Fürjes (JFF), 202006018@post.au.dk
 - Bianka Szöllösi (BIS), biankasz@mgmt.au.dk
 
+This repository has an Apache License.
+
 ## File structure
 - ```analysis.ipynb``` contains the script for the models, cross-validations and the pre-processing.
 - ```describe_data.py``` contains the script for data descriptiove visualisation purposes.
